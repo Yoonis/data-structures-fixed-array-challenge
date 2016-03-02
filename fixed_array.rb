@@ -14,9 +14,3 @@ class FixedArray
     @fixed[index]
   end
 end
-
-# require './fixed_array.rb'
-# abc = FixedArray.new
-# abc.new(3)
-# abc.set(2, "lol")
-# abc.get(2)
